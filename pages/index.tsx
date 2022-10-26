@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="#">Mi Home API</a>
+          Welcome to <a href="#">Huawei Home API</a>
         </h1>
 
         <div className={styles.grid}>
